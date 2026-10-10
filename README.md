@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img src="header.gif" width="100%" />
+</div>
+
+<br/>
+
 <!-- HEADER -->
 <div align="center">
 
