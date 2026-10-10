@@ -14,8 +14,6 @@
 
 *building things, exploring ideas, and growing one commit at a time.*
 
-✿ · · ─────── ·𖥸· ─────── · · ✿
-
 </div>
 
 <!-- ABOUT ME -->
@@ -24,10 +22,9 @@
 
 I'm a software engineering student with a curiosity for how things work and a love for learning new things.
 
-- ☕ Currently strengthening my **Java** and **JavaScript** skills through personal projects
-- 🌿 Exploring backend and full-stack development
-- 🧩 Interested in creative problem-solving and new perspectives
-- ✨ Learning by building, experimenting, and improving along the way
+-  Currently strengthening my **Java** and **JavaScript** skills through personal projects
+-  Exploring backend and full-stack development
+-  Interested in creative problem-solving and new perspectives
 
 ### 🪴 things i work with
 
@@ -42,7 +39,7 @@ I'm a software engineering student with a curiosity for how things work and a lo
 ![MongoDB](https://img.shields.io/badge/MongoDB-A3B18A?style=flat-square&logo=mongodb&logoColor=403B35)
 ![Git](https://img.shields.io/badge/Git-87977A?style=flat-square&logo=git&logoColor=white)
 
-### 🍃 things i've been building
+###  things i've been building
 
 **StudHub** — a collaborative study platform designed to help students connect, study together, and stay accountable.
 
@@ -58,15 +55,8 @@ I'm a software engineering student with a curiosity for how things work and a lo
 
 </div>
 
-### ☁️ let's connect
+###  let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-87977A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-C9B99F?style=flat-square&logo=gmail&logoColor=403B35)](mailto:nyashiacarrington0@gmail.com)
 
-<div align="center">
-
-*“curious mind, open perspective, always learning.”*
-
-♡ thanks for stopping by ♡
-
-</div>
